@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-21T06:21:24.172Z",
+  "items": {
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-09-21T06:21:20.002Z",
+      "last_pushed_at": "2026-09-21T06:21:20.002Z",
+      "language": "sql",
+      "lines": 4
+    }
+  }
+}
